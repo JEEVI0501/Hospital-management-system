@@ -1,0 +1,1 @@
+Care++ was created in C using files and exception handling. The project takes care of everything required in a hospital computer from admin logins to storing each record of the patients including the bills and payment using structures and pointers. 
